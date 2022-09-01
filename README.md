@@ -1,4 +1,4 @@
-Nama : Iqbal Pahlevi A
+Nama : Iqbal Pahlevi Amin
 
 NPM : 2106752281
 
